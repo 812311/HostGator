@@ -222,7 +222,7 @@ export const IconGrupo29390 = styled.div`
 `;
 
 export const Container = styled.div`
-  & > div {
+  & > .container {
     display: flex;
     align-items: center;
     justify-content: center;
