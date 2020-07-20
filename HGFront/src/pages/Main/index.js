@@ -105,7 +105,7 @@ class Main extends Component {
             </Radio>
           </Cycles>
         </CyclesBox>
-        <div>
+        <div className="container">
           <Plans plans={products} cycle={parseInt(value)} />
         </div>
       </Container>
