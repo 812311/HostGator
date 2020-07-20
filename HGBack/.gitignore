@@ -1,0 +1,6 @@
+composer.phar
+/vendor/
+/phinx.yml
+/.env
+/.phpunit.result.cache
+/app.yaml
